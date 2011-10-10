@@ -224,7 +224,7 @@
   <project path="frameworks/base" name="t0dbld/android_frameworks_base" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/com.authentec" name="t0dbld/android_frameworks_opt_com.authentec" />  
+  <project path="frameworks/opt/com.authentec" name="t0dbld/android_frameworks_opt_com.authentec" revision="master" />  
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
